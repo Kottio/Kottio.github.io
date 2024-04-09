@@ -1,0 +1,11 @@
+body,html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Avenir', sans-serif;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.test { text-align: center;}
